@@ -1,0 +1,813 @@
+TVisualNotes
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004C5E1EEF00000000000028E4
+t1281236719
+s10468
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C5E1EEF00000000000000CD
+t1281236719
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C5E1EFD0000000000091C50
+t1281236733
+s597072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004CC6561F000000000000291C
+t1288066591
+s10524
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC6561F00000000000000CD
+t1288066591
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/AppIcon.png
+c000000004C2F854500000000000029BC
+t1278182725
+s10684
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/AppIcon@2x.png
+c000000004C7B0A840000000000007ED3
+t1283132036
+s32467
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/../MainWindow.xib
+c000000004C7B0A840000000000005B58
+t1283132036
+s23384
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.h
+c000000004C9534FE00000000000001A1
+t1284846846
+s417
+i<UIKit/UIKit.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.m
+c000000004CA3FC1800000000000006C5
+t1285815320
+s1733
+i"CustomUIScrollView.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.h
+c000000004C7B0A7D00000000000001FF
+t1283132029
+s511
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.m
+c000000004C7B0A7D00000000000008E1
+t1283132029
+s2273
+i"LocationManager.h"
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.h
+c000000004CA3FC180000000000000386
+t1285815320
+s902
+i<Foundation/Foundation.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.m
+c000000004C7B0A7D000000000000062C
+t1283132029
+s1580
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.h
+c000000004C7B0A7D00000000000000FA
+t1283132029
+s250
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.m
+c000000004C7B0A7D0000000000000285
+t1283132029
+s645
+i"NSString+Utils.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.h
+c000000004C7B0A7D00000000000003B4
+t1283132029
+s948
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.m
+c000000004C7B0A7D00000000000007A0
+t1283132029
+s1952
+i"Note.h"
+i"NSString+Utils.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.h
+c000000004C7B0A7D0000000000000282
+t1283132029
+s642
+i<UIKit/UIKit.h>
+i"Note.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.m
+c000000004C7B0A7D0000000000000E54
+t1283132029
+s3668
+i"NoteCellView.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.h
+c000000004CA3FC1800000000000002E7
+t1285815320
+s743
+i"NotePadViewController.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.m
+c000000004CE5E64400000000000042FA
+t1290135108
+s17146
+i"NoteListViewController.h"
+i"Note.h"
+i"NotePadViewController.h"
+i"UIImage+Utils.h"
+i"NoteCellView.h"
+i"LocationManager.h"
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.h
+c000000004C7B0A7D000000000000031C
+t1283132029
+s796
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"Note.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.m
+c000000004C7B0A7D00000000000011EB
+t1283132029
+s4587
+i"NoteLocationViewController.h"
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.h
+c000000004CA3FC18000000000000057A
+t1285815320
+s1402
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"Note.h"
+i"CustomUIScrollView.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.m
+c000000004CC0BFC70000000000005B55
+t1287700423
+s23381
+i"NotePadViewController.h"
+i"VisualNotesAppDelegate.h"
+i"UIImage+Utils.h"
+i"NoteLocationViewController.h"
+i"LocationManager.h"
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.h
+c000000004C7B0A7D0000000000000161
+t1283132029
+s353
+i<Foundation/Foundation.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.m
+c000000004C7B0A7D0000000000001B73
+t1283132029
+s7027
+i"UIImage+Utils.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.h
+c000000004C7B0A7D00000000000003CE
+t1283132029
+s974
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.m
+c000000004CA3FC180000000000001F85
+t1285815320
+s8069
+i"VisualNotesAppDelegate.h"
+i"NoteListViewController.h"
+i"LocationManager.h"
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Default.png
+c000000004C7B0A84000000000004F502
+t1283132036
+s324866
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Default@2x.png
+c000000004C7B0A840000000000155925
+t1283132036
+s1399077
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/NoteListView.xib
+c000000004C95379000000000000042C8
+t1284847504
+s17096
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/NoteLocationView.xib
+c000000004C7B0A840000000000005ECB
+t1283132036
+s24267
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/NotePadView.xib
+c000000004C7B0A840000000000003A6B
+t1283132036
+s14955
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/SettingsIcon.png
+c000000004C7B0A84000000000000136A
+t1283132036
+s4970
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/SettingsIcon@2x.png
+c000000004C7B0A840000000000002994
+t1283132036
+s10644
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes.xcdatamodeld
+c000000004C83E18E00000000000000CC
+t1283711374
+s204
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes_Prefix.pch
+c000000004C7B0A84000000000000016B
+t1283132036
+s363
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app.dSYM
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/AppIcon.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/AppIcon@2x.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/Default.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/Default@2x.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/Info.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/MainWindow.nib
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/NoteListView.nib
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/NoteLocationView.nib
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/NotePadView.nib
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/PkgInfo
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/SettingsIcon.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/SettingsIcon@2x.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/VisualNotes
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/VisualNotes.momd
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/cell-background.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/cell-background@2x.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/flip-icon.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/flip-icon@2x.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/note-text-view-background.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/table-view-background.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/table-view-background@2x.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/text-thumbnail.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/text-thumbnail@2x.png
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/CustomUIScrollView.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/LocationManager.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/LogManager.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/NSString+Utils.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/Note.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteCellView.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteListViewController.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteLocationViewController.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/NotePadViewController.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/UIImage+Utils.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/VisualNotes.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/VisualNotesAppDelegate.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/CustomUIScrollView.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/LocationManager.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/LogManager.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/NSString+Utils.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/Note.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/NoteCellView.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/NoteListViewController.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/NoteLocationViewController.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/NotePadViewController.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/UIImage+Utils.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/VisualNotesAppDelegate.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/cell-background.png
+c000000004C7B0A840000000000001238
+t1283132036
+s4664
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/cell-background@2x.png
+c000000004C7B0A84000000000000187D
+t1283132036
+s6269
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/flip-icon.png
+c000000004C7B0A8400000000000000A9
+t1283132036
+s169
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/flip-icon@2x.png
+c000000004C7B0A840000000000000467
+t1283132036
+s1127
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/main.m
+c000000004C7B0A840000000000000165
+t1283132036
+s357
+i<UIKit/UIKit.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/note-text-view-background.png
+c000000004C7B0A840000000000002945
+t1283132036
+s10565
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/table-view-background.png
+c000000004C7B0A84000000000004672B
+t1283132036
+s288555
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/table-view-background@2x.png
+c000000004C7B0A840000000000135931
+t1283132036
+s1268017
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/text-thumbnail.png
+c000000004C7B0A840000000000000EE0
+t1283132036
+s3808
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/text-thumbnail@2x.png
+c000000004C7B0A84000000000000111F
+t1283132036
+s4383
+
+N/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-caqygiouvxuzjidcnjssxtjsieef/VisualNotes_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-dkvgppmwoujvrebhvjpvearwruwb/VisualNotes_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-fhrlzpljutnquvgyakgkyzpgzmzh/VisualNotes_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-fmqoxluohyepufbsplnuppyocshv/VisualNotes_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004CE5E6D70000000000000473
+t1290135255
+s1139
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.m"
+r0
+
+CAnalyze "/Users/rich/Documents/Visual Notes/VisualNotes/main.m"
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/CustomUIScrollView.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/LocationManager.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/LogManager.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/NSString+Utils.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/Note.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteCellView.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteListViewController.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteLocationViewController.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/NotePadViewController.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/UIImage+Utils.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/VisualNotesAppDelegate.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VisualNotes.build/Distribution-iphonesimulator/VisualNotes.build/Objects-normal/i386/main.o "/Users/rich/Documents/Visual Notes/VisualNotes/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/../MainWindow.xib"
+r0
+
+CCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/NoteListView.xib"
+r0
+
+CCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/NoteLocationView.xib"
+r0
+
+CCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/NotePadView.xib"
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/AppIcon.png AppIcon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/AppIcon@2x.png AppIcon@2x.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/Default.png Default.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/Default@2x.png Default@2x.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/SettingsIcon.png SettingsIcon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/SettingsIcon@2x.png SettingsIcon@2x.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/cell-background.png cell-background.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/cell-background@2x.png cell-background@2x.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/flip-icon.png flip-icon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/flip-icon@2x.png flip-icon@2x.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/note-text-view-background.png note-text-view-background.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/table-view-background.png table-view-background.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/table-view-background@2x.png table-view-background@2x.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/text-thumbnail.png text-thumbnail.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/VisualNotes.app/text-thumbnail@2x.png text-thumbnail@2x.png
+r0
+
+CDataModelVersionCompile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/VisualNotes.momd" "/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes.xcdatamodeld"
+r0
+
+CGenerateDSYMFile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app.dSYM" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/VisualNotes"
+r0
+
+CLd "/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/VisualNotes" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-caqygiouvxuzjidcnjssxtjsieef/VisualNotes_Prefix.pch.pth VisualNotes_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-dkvgppmwoujvrebhvjpvearwruwb/VisualNotes_Prefix.pch.gch VisualNotes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-fhrlzpljutnquvgyakgkyzpgzmzh/VisualNotes_Prefix.pch.pth VisualNotes_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-fmqoxluohyepufbsplnuppyocshv/VisualNotes_Prefix.pch.gch VisualNotes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/rich/Documents/Visual Notes/VisualNotes/build/Distribution-iphonesimulator/VisualNotes.app"
+r0
+

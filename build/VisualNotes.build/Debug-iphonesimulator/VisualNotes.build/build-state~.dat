@@ -1,0 +1,1177 @@
+TVisualNotes
+v7
+r0
+t311827149.351266
+cCheck dependencies
+cProcessInfoPlistFile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/Info.plist" Info.plist
+cCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/../MainWindow.xib"
+cCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/NoteListView.xib"
+cCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/NotePadView.xib"
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/cell-background.png cell-background.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/note-text-view-background.png note-text-view-background.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/text-thumbnail.png text-thumbnail.png
+cCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/NoteLocationView.xib"
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/AppIcon.png AppIcon.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/AppIcon@2x.png AppIcon@2x.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/SettingsIcon.png SettingsIcon.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/SettingsIcon@2x.png SettingsIcon@2x.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/table-view-background.png table-view-background.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/table-view-background@2x.png table-view-background@2x.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/Default@2x.png Default@2x.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/cell-background@2x.png cell-background@2x.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/text-thumbnail@2x.png text-thumbnail@2x.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/flip-icon.png flip-icon.png
+cCpResource build/Debug-iphonesimulator/VisualNotes.app/flip-icon@2x.png flip-icon@2x.png
+cProcessPCH /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch.gch VisualNotes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes.momd" "/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes.xcdatamodeld"
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteListViewController.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/VisualNotesAppDelegate.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/main.o "/Users/rich/Documents/Visual Notes/VisualNotes/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/Note.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NotePadViewController.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/UIImage+Utils.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NSString+Utils.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteCellView.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteLocationViewController.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/LocationManager.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/LogManager.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/CustomUIScrollView.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes" normal i386
+cGenerateDSYMFile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app.dSYM" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes"
+cTouch "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C64C3950000000000000132
+t1281672085
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004BFDFEB400000000001CFA90
+t1274937012
+s1899152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BFDFEA8000000000000046B
+t1274937000
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BFF44C00000000000068F90
+t1275020480
+s429968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BFF44B600000000000001D0
+t1275020470
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004C04728100000000000028E4
+t1275359873
+s10468
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C04728100000000000000CD
+t1275359873
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C04728D0000000000090330
+t1275359885
+s590640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004C5E1EEF00000000000028E4
+t1281236719
+s10468
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C5E1EEF00000000000000CD
+t1281236719
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C5E1EFD0000000000091C50
+t1281236733
+s597072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004CC6561F000000000000291C
+t1288066591
+s10524
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC6561F00000000000000CD
+t1288066591
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/AppIcon.png
+c000000004C2F854500000000000029BC
+t1278182725
+s10684
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/AppIcon@2x.png
+c000000004C7B0A840000000000007ED3
+t1283132036
+s32467
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/../MainWindow.xib
+c000000004C7B0A840000000000005B58
+t1283132036
+s23384
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.h
+c000000004C9534FE00000000000001A1
+t1284846846
+s417
+i<UIKit/UIKit.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.m
+c000000004CA3FC1800000000000006C5
+t1285815320
+s1733
+i"CustomUIScrollView.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.h
+c000000004C7B0A7D00000000000001FF
+t1283132029
+s511
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.m
+c000000004C7B0A7D00000000000008E1
+t1283132029
+s2273
+i"LocationManager.h"
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.h
+c000000004CA3FC180000000000000386
+t1285815320
+s902
+i<Foundation/Foundation.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.m
+c000000004C7B0A7D000000000000062C
+t1283132029
+s1580
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.h
+c000000004C7B0A7D00000000000000FA
+t1283132029
+s250
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.m
+c000000004C7B0A7D0000000000000285
+t1283132029
+s645
+i"NSString+Utils.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.h
+c000000004C7B0A7D00000000000003B4
+t1283132029
+s948
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.m
+c000000004C7B0A7D00000000000007A0
+t1283132029
+s1952
+i"Note.h"
+i"NSString+Utils.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.h
+c000000004C7B0A7D0000000000000282
+t1283132029
+s642
+i<UIKit/UIKit.h>
+i"Note.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.m
+c000000004C7B0A7D0000000000000E54
+t1283132029
+s3668
+i"NoteCellView.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.h
+c000000004CA3FC1800000000000002E7
+t1285815320
+s743
+i"NotePadViewController.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.m
+c000000004CA4020E00000000000042A6
+t1285816846
+s17062
+i"NoteListViewController.h"
+i"Note.h"
+i"NotePadViewController.h"
+i"UIImage+Utils.h"
+i"NoteCellView.h"
+i"LocationManager.h"
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.h
+c000000004C7B0A7D000000000000031C
+t1283132029
+s796
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"Note.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.m
+c000000004C7B0A7D00000000000011EB
+t1283132029
+s4587
+i"NoteLocationViewController.h"
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.h
+c000000004CA3FC18000000000000057A
+t1285815320
+s1402
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"Note.h"
+i"CustomUIScrollView.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.m
+c000000004CC0BFC70000000000005B55
+t1287700423
+s23381
+i"NotePadViewController.h"
+i"VisualNotesAppDelegate.h"
+i"UIImage+Utils.h"
+i"NoteLocationViewController.h"
+i"LocationManager.h"
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.h
+c000000004C7B0A7D0000000000000161
+t1283132029
+s353
+i<Foundation/Foundation.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.m
+c000000004C7B0A7D0000000000001B73
+t1283132029
+s7027
+i"UIImage+Utils.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.h
+c000000004C7B0A7D00000000000003CE
+t1283132029
+s974
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.m
+c000000004CA3FC180000000000001F85
+t1285815320
+s8069
+i"VisualNotesAppDelegate.h"
+i"NoteListViewController.h"
+i"LocationManager.h"
+i"LogManager.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/CustomUIScrollView.h
+c000000004C841A960000000000000115
+t1283725974
+s277
+i<UIKit/UIKit.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/CustomUIScrollView.m
+c000000004C8419E10000000000000B10
+t1283725793
+s2832
+i"CustomUIScrollView.h"
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Default.png
+c000000004C7B0A84000000000004F502
+t1283132036
+s324866
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/Default@2x.png
+c000000004C7B0A840000000000155925
+t1283132036
+s1399077
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/NoteListView.xib
+c000000004C95379000000000000042C8
+t1284847504
+s17096
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/NoteLocationView.xib
+c000000004C7B0A840000000000005ECB
+t1283132036
+s24267
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/NotePadView.xib
+c000000004C7B0A840000000000003A6B
+t1283132036
+s14955
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/SettingsIcon.png
+c000000004C7B0A84000000000000136A
+t1283132036
+s4970
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/SettingsIcon@2x.png
+c000000004C7B0A840000000000002994
+t1283132036
+s10644
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes.xcdatamodeld
+c000000004C83E18E00000000000000CC
+t1283711374
+s204
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes_Prefix.pch
+c000000004C7B0A84000000000000016B
+t1283132036
+s363
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app
+t1290134349
+s850
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app.dSYM
+t1290134349
+s102
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/AppIcon.png
+t1290134346
+s10684
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/AppIcon@2x.png
+t1290134346
+s32467
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/Default.png
+t1290134346
+s324866
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/Default@2x.png
+t1290134346
+s1399077
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/Info.plist
+t1290134345
+s787
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/MainWindow.nib
+t1290134346
+s1511
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/NoteListView.nib
+t1290134346
+s979
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/NoteLocationView.nib
+t1290134347
+s1572
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/NotePadView.nib
+t1290134346
+s764
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/PkgInfo
+t1290134345
+s8
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/SettingsIcon.png
+t1290134346
+s4970
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/SettingsIcon@2x.png
+t1290134346
+s10644
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes
+t1290134349
+s131008
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes.momd
+t1290134348
+s170
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/cell-background.png
+t1290134346
+s4664
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/cell-background@2x.png
+t1290134346
+s6269
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/flip-icon.png
+t1290134346
+s169
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/flip-icon@2x.png
+t1290134346
+s1127
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/note-text-view-background.png
+t1290134346
+s10565
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/table-view-background.png
+t1290134346
+s288555
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/table-view-background@2x.png
+t1290134346
+s1268017
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/text-thumbnail.png
+t1290134346
+s3808
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/text-thumbnail@2x.png
+t1290134346
+s4383
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/CustomUIScrollView.o
+t1290134349
+s41712
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/LocationManager.o
+t1290134348
+s18768
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/LogManager.o
+t1290134349
+s12572
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NSString+Utils.o
+t1290134348
+s7556
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/Note.o
+t1290134348
+s20880
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteCellView.o
+t1290134349
+s57148
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteListViewController.o
+t1290134348
+s102944
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteLocationViewController.o
+t1290134348
+s70968
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NotePadViewController.o
+t1290134348
+s130504
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/UIImage+Utils.o
+t1290134348
+s18940
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/VisualNotes.LinkFileList
+c000000004CE5E34900000000000006FD
+t1290134345
+s1789
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/VisualNotesAppDelegate.o
+t1290134348
+s83492
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/main.o
+t1290134348
+s6320
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/cell-background.png
+c000000004C7B0A840000000000001238
+t1283132036
+s4664
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/cell-background@2x.png
+c000000004C7B0A84000000000000187D
+t1283132036
+s6269
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/flip-icon.png
+c000000004C7B0A8400000000000000A9
+t1283132036
+s169
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/flip-icon@2x.png
+c000000004C7B0A840000000000000467
+t1283132036
+s1127
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/main.m
+c000000004C7B0A840000000000000165
+t1283132036
+s357
+i<UIKit/UIKit.h>
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/note-text-view-background.png
+c000000004C7B0A840000000000002945
+t1283132036
+s10565
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/table-view-background.png
+c000000004C7B0A84000000000004672B
+t1283132036
+s288555
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/table-view-background@2x.png
+c000000004C7B0A840000000000135931
+t1283132036
+s1268017
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/text-thumbnail.png
+c000000004C7B0A840000000000000EE0
+t1283132036
+s3808
+
+N/Users/rich/Documents/Visual Notes/VisualNotes/text-thumbnail@2x.png
+c000000004C7B0A84000000000000111F
+t1283132036
+s4383
+
+N/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-avjyuovhomwjoyfddfiknahtplws/VisualNotes_Prefix.pch.gch
+t1287700432
+s16080688
+
+N/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch.gch
+t1290134348
+s16326640
+
+N/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-bkmemmqkdinlioemggrjovtdrwfx/VisualNotes_Prefix.pch.gch
+t1283641390
+s16080688
+
+N/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-dlcjntxvfqluhmdigmfnurraypwj/VisualNotes_Prefix.pch.gch
+t1283133265
+s16097072
+
+NInfo.plist
+c000000004CC0C405000000000000046F
+t1287701509
+s1135
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311827145#311827145#0(0"0(0#1#0"8623735872#0"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/CustomUIScrollView.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827149.041747
+e311827149.142729
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/CustomUIScrollView.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.m311827149#311827149#0(0"0(0#0#75"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.m8626365216#2147"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/CustomUIScrollView.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/CustomUIScrollView.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/CustomUIScrollView.o "/Users/rich/Documents/Visual Notes/VisualNotes/CustomUIScrollView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s305425010.356036
+e305425010.466552
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/CustomUIScrollView.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/CustomUIScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/rich/Documents/Visual Notes/VisualNotes/CustomUIScrollView.m305425010#305425010#0(0"0(0#0#67"/Users/rich/Documents/Visual Notes/VisualNotes/CustomUIScrollView.m8629685632#2132"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-bkmemmqkdinlioemggrjovtdrwfx/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/CustomUIScrollView.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/CustomUIScrollView.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/LocationManager.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.895555
+e311827148.992154
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/LocationManager.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.m311827148#311827149#0(0"0(0#0#72"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.m8622731520#2141"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LocationManager.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/LocationManager.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/LogManager.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.992254
+e311827149.120730
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/LogManager.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.m311827148#311827149#0(0"0(0#0#67"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.m8623185792#2131"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/LogManager.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/LogManager.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NSString+Utils.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.625685
+e311827148.760244
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NSString+Utils.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.m311827148#311827148#0(0"0(0#0#71"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.m8619129984#2139"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NSString+Utils.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NSString+Utils.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/Note.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.412195
+e311827148.521645
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/Note.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.m311827148#311827148#0(0"0(0#0#61"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.m8622795776#2119"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/Note.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/Note.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteCellView.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.724505
+e311827149.041642
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteCellView.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.m311827148#311827149#0(0"0(0#0#69"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.m8625750720#2135"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteCellView.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteCellView.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteListViewController.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.132908
+e311827148.362838
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteListViewController.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.m311827148#311827148#0(0"0(0#0#79"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.m8611069376#2155"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteListViewController.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteListViewController.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteLocationViewController.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.760371
+e311827148.895443
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteLocationViewController.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.m311827148#311827149#0(0"0(0#0#83"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.m8624124576#2163"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NoteLocationViewController.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NoteLocationViewController.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NotePadViewController.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.437282
+e311827148.724365
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NotePadViewController.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.m311827148#311827148#0(0"0(0#0#78"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.m8623171104#2153"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/NotePadViewController.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/NotePadViewController.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/UIImage+Utils.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.521759
+e311827148.625571
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/UIImage+Utils.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.m311827148#311827148#0(0"0(0#0#70"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.m8620447296#2137"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/UIImage+Utils.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/UIImage+Utils.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/VisualNotesAppDelegate.o "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.240693
+e311827148.411849
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/VisualNotesAppDelegate.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.m311827148#311827148#0(0"0(0#0#79"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.m8627760960#2155"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/VisualNotesAppDelegate.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/VisualNotesAppDelegate.o"0#
+
+CCompileC build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/main.o "/Users/rich/Documents/Visual Notes/VisualNotes/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827148.362960
+e311827148.437170
+r1
+xCompileC
+xbuild/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/main.o
+x/Users/rich/Documents/Visual Notes/VisualNotes/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/rich/Documents/Visual Notes/VisualNotes/main.m311827148#311827148#0(0"0(0#0#53"/Users/rich/Documents/Visual Notes/VisualNotes/main.m8625648512#2111"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -include /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch -c "/Users/rich/Documents/Visual Notes/VisualNotes/main.m" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/../MainWindow.xib"
+s311827145.677726
+e311827146.309519
+r1
+xCompileXIB
+x/Users/rich/Documents/Visual Notes/VisualNotes/Classes/../MainWindow.xib
+lSLF07#2@36"CompileXIB Classes/../MainWindow.xib311827145#311827146#0(0"0(0#0#72"/Users/rich/Documents/Visual Notes/VisualNotes/Classes/../MainWindow.xib8623988992#615"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/MainWindow.nib" "/Users/rich/Documents/Visual Notes/VisualNotes/Classes/../MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/NoteListView.xib"
+s311827145.700499
+e311827146.247503
+r1
+xCompileXIB
+x/Users/rich/Documents/Visual Notes/VisualNotes/NoteListView.xib
+lSLF07#2@27"CompileXIB NoteListView.xib311827145#311827146#0(0"0(0#0#63"/Users/rich/Documents/Visual Notes/VisualNotes/NoteListView.xib8623684544#608"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/NoteListView.nib" "/Users/rich/Documents/Visual Notes/VisualNotes/NoteListView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/NoteLocationView.xib"
+s311827146.313294
+e311827147.069224
+r1
+xCompileXIB
+x/Users/rich/Documents/Visual Notes/VisualNotes/NoteLocationView.xib
+lSLF07#2@31"CompileXIB NoteLocationView.xib311827146#311827147#0(0"0(0#0#67"/Users/rich/Documents/Visual Notes/VisualNotes/NoteLocationView.xib8624851584#616"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/NoteLocationView.nib" "/Users/rich/Documents/Visual Notes/VisualNotes/NoteLocationView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/rich/Documents/Visual Notes/VisualNotes/NotePadView.xib"
+s311827146.247600
+e311827146.796173
+r1
+xCompileXIB
+x/Users/rich/Documents/Visual Notes/VisualNotes/NotePadView.xib
+lSLF07#2@26"CompileXIB NotePadView.xib311827146#311827146#0(0"0(0#0#62"/Users/rich/Documents/Visual Notes/VisualNotes/NotePadView.xib8626152672#606"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/NotePadView.nib" "/Users/rich/Documents/Visual Notes/VisualNotes/NotePadView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/AppIcon.png AppIcon.png
+s311827146.796288
+e311827146.808768
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/AppIcon.png
+xAppIcon.png
+lSLF07#2@16"Copy AppIcon.png311827146#311827146#0(0"0(0#0#58"/Users/rich/Documents/Visual Notes/VisualNotes/AppIcon.png8625745152#503"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/AppIcon.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/AppIcon@2x.png AppIcon@2x.png
+s311827146.797031
+e311827146.833312
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/AppIcon@2x.png
+xAppIcon@2x.png
+lSLF07#2@19"Copy AppIcon@2x.png311827146#311827146#0(0"0(0#0#61"/Users/rich/Documents/Visual Notes/VisualNotes/AppIcon@2x.png8624055680#506"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/AppIcon@2x.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/Default.png Default.png
+s311827146.799937
+e311827147.002363
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png311827146#311827147#0(0"0(0#0#58"/Users/rich/Documents/Visual Notes/VisualNotes/Default.png8629416672#503"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/Default.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/Default@2x.png Default@2x.png
+s311827146.805170
+e311827147.033521
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/Default@2x.png
+xDefault@2x.png
+lSLF07#2@19"Copy Default@2x.png311827146#311827147#0(0"0(0#0#61"/Users/rich/Documents/Visual Notes/VisualNotes/Default@2x.png8627050016#506"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/Default@2x.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/SettingsIcon.png SettingsIcon.png
+s311827146.797653
+e311827146.808892
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/SettingsIcon.png
+xSettingsIcon.png
+lSLF07#2@21"Copy SettingsIcon.png311827146#311827146#0(0"0(0#0#63"/Users/rich/Documents/Visual Notes/VisualNotes/SettingsIcon.png8623450272#508"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/SettingsIcon.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/SettingsIcon@2x.png SettingsIcon@2x.png
+s311827146.798293
+e311827146.809004
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/SettingsIcon@2x.png
+xSettingsIcon@2x.png
+lSLF07#2@24"Copy SettingsIcon@2x.png311827146#311827146#0(0"0(0#0#66"/Users/rich/Documents/Visual Notes/VisualNotes/SettingsIcon@2x.png8630227424#511"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/SettingsIcon@2x.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/cell-background.png cell-background.png
+s311827146.309610
+e311827146.384403
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/cell-background.png
+xcell-background.png
+lSLF07#2@24"Copy cell-background.png311827146#311827146#0(0"0(0#0#66"/Users/rich/Documents/Visual Notes/VisualNotes/cell-background.png8625793568#511"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/cell-background.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/cell-background@2x.png cell-background@2x.png
+s311827146.806912
+e311827146.829067
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/cell-background@2x.png
+xcell-background@2x.png
+lSLF07#2@27"Copy cell-background@2x.png311827146#311827146#0(0"0(0#0#69"/Users/rich/Documents/Visual Notes/VisualNotes/cell-background@2x.png8626823168#514"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/cell-background@2x.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/flip-icon.png flip-icon.png
+s311827146.810793
+e311827146.827440
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/flip-icon.png
+xflip-icon.png
+lSLF07#2@18"Copy flip-icon.png311827146#311827146#0(0"0(0#0#60"/Users/rich/Documents/Visual Notes/VisualNotes/flip-icon.png8626424128#505"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/flip-icon.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/flip-icon@2x.png flip-icon@2x.png
+s311827146.812666
+e311827146.832173
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/flip-icon@2x.png
+xflip-icon@2x.png
+lSLF07#2@21"Copy flip-icon@2x.png311827146#311827146#0(0"0(0#0#63"/Users/rich/Documents/Visual Notes/VisualNotes/flip-icon@2x.png8626236608#508"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/flip-icon@2x.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/note-text-view-background.png note-text-view-background.png
+s311827146.310989
+e311827146.383011
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/note-text-view-background.png
+xnote-text-view-background.png
+lSLF07#2@34"Copy note-text-view-background.png311827146#311827146#0(0"0(0#0#76"/Users/rich/Documents/Visual Notes/VisualNotes/note-text-view-background.png8625668992#521"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/note-text-view-background.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/table-view-background.png table-view-background.png
+s311827146.801733
+e311827146.939770
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/table-view-background.png
+xtable-view-background.png
+lSLF07#2@30"Copy table-view-background.png311827146#311827146#0(0"0(0#0#72"/Users/rich/Documents/Visual Notes/VisualNotes/table-view-background.png8627937696#517"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/table-view-background.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/table-view-background@2x.png table-view-background@2x.png
+s311827146.803453
+e311827147.030247
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/table-view-background@2x.png
+xtable-view-background@2x.png
+lSLF07#2@33"Copy table-view-background@2x.png311827146#311827147#0(0"0(0#0#75"/Users/rich/Documents/Visual Notes/VisualNotes/table-view-background@2x.png8627473760#520"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/table-view-background@2x.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/text-thumbnail.png text-thumbnail.png
+s311827146.312604
+e311827146.383769
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/text-thumbnail.png
+xtext-thumbnail.png
+lSLF07#2@23"Copy text-thumbnail.png311827146#311827146#0(0"0(0#0#65"/Users/rich/Documents/Visual Notes/VisualNotes/text-thumbnail.png8625480640#510"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/text-thumbnail.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CCpResource build/Debug-iphonesimulator/VisualNotes.app/text-thumbnail@2x.png text-thumbnail@2x.png
+s311827146.809070
+e311827146.824621
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VisualNotes.app/text-thumbnail@2x.png
+xtext-thumbnail@2x.png
+lSLF07#2@26"Copy text-thumbnail@2x.png311827146#311827146#0(0"0(0#0#68"/Users/rich/Documents/Visual Notes/VisualNotes/text-thumbnail@2x.png8626533376#513"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rich/Documents/Visual Notes/VisualNotes/text-thumbnail@2x.png" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+
+CDataModelVersionCompile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes.momd" "/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes.xcdatamodeld"
+s311827148.132057
+e311827148.240573
+r1
+xDataModelVersionCompile
+x/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes.momd
+x/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes.xcdatamodeld
+lSLF07#2@109"DataModelVersionCompile build/Debug-iphonesimulator/VisualNotes.app/VisualNotes.momd VisualNotes.xcdatamodeld311827148#311827148#0(0"0(0#0#71"/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes.xcdatamodeld8622652352#428"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes.xcdatamodeld" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes.momd"0#
+
+CGenerateDSYMFile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app.dSYM" "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes"
+s311827149.270259
+e311827149.319124
+r1
+xGenerateDSYMFile
+x/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app.dSYM
+x/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/VisualNotes.app.dSYM build/Debug-iphonesimulator/VisualNotes.app/VisualNotes311827149#311827149#0(0"0(0#0#102"/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes8620048960#425"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes" -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app.dSYM"0#
+
+CLd "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes" normal i386
+s311827149.142827
+e311827149.270151
+r1
+xLd
+x/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes
+xnormal
+xi386
+lSLF07#2@107"Link /Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes311827149#311827149#0(0"0(0#0#0"8625457760#1053"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" -filelist "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/Objects-normal/i386/VisualNotes.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework CoreData -framework CoreGraphics -framework CoreLocation -framework Foundation -framework MapKit -framework MessageUI -framework UIKit -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/VisualNotes"0#
+
+CProcessInfoPlistFile "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/Info.plist" Info.plist
+s311827145.674310
+e311827145.677644
+r1
+xProcessInfoPlistFile
+x/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist311827145#311827145#0(0"0(0#0#57"/Users/rich/Documents/Visual Notes/VisualNotes/Info.plist8625276992#509"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app/Info.plist"0#
+
+CProcessPCH /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-avjyuovhomwjoyfddfiknahtplws/VisualNotes_Prefix.pch.gch VisualNotes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309393230.649899
+e309393232.240462
+r1
+xProcessPCH
+x/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-avjyuovhomwjoyfddfiknahtplws/VisualNotes_Prefix.pch.gch
+xVisualNotes_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile VisualNotes_Prefix.pch309393230#309393232#0(0"0(0#0#69"/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes_Prefix.pch8608663968#1989"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -c "/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes_Prefix.pch" -o /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-avjyuovhomwjoyfddfiknahtplws/VisualNotes_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch.gch VisualNotes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311827147.069343
+e311827148.131846
+r1
+xProcessPCH
+x/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch.gch
+xVisualNotes_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile VisualNotes_Prefix.pch311827147#311827148#0(0"0(0#0#69"/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes_Prefix.pch8625227808#1989"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -DFULL -c "/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes_Prefix.pch" -o /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-axehhiputplkffcjfwflnzjbfdnq/VisualNotes_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-bkmemmqkdinlioemggrjovtdrwfx/VisualNotes_Prefix.pch.gch VisualNotes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305334188.714478
+e305334190.208737
+r1
+xProcessPCH
+x/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-bkmemmqkdinlioemggrjovtdrwfx/VisualNotes_Prefix.pch.gch
+xVisualNotes_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile VisualNotes_Prefix.pch305334188#305334190#0(0"0(0#0#69"/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes_Prefix.pch8610117248#1982"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -c "/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes_Prefix.pch" -o /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-bkmemmqkdinlioemggrjovtdrwfx/VisualNotes_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-dlcjntxvfqluhmdigmfnurraypwj/VisualNotes_Prefix.pch.gch VisualNotes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304826064.267766
+e304826065.144621
+r1
+xProcessPCH
+x/var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-dlcjntxvfqluhmdigmfnurraypwj/VisualNotes_Prefix.pch.gch
+xVisualNotes_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile VisualNotes_Prefix.pch304826064#304826065#0(0"0(0#0#69"/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes_Prefix.pch8604907296#1969"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-generated-files.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-own-target-headers.hmap" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-all-target-headers.hmap" -iquote "/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/VisualNotes-project-headers.hmap" "-F/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/include" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources/i386" "-I/Users/rich/Documents/Visual Notes/VisualNotes/build/VisualNotes.build/Debug-iphonesimulator/VisualNotes.build/DerivedSources" -c "/Users/rich/Documents/Visual Notes/VisualNotes/VisualNotes_Prefix.pch" -o /var/folders/Yr/YrGRYaYpGqKkcOwLQa2yWk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VisualNotes_Prefix-dlcjntxvfqluhmdigmfnurraypwj/VisualNotes_Prefix.pch.gch0#
+
+CTouch "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"
+s311827149.319220
+e311827149.351201
+r1
+xTouch
+x/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app
+lSLF07#2@96"Touch /Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app311827149#311827149#0(0"0(0#0#0"8626585344#302"    cd "/Users/rich/Documents/Visual Notes/VisualNotes"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/rich/Documents/Visual Notes/VisualNotes/build/Debug-iphonesimulator/VisualNotes.app"0#
+

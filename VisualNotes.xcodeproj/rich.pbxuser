@@ -1,0 +1,955 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* VisualNotes */ = {
+		activeExec = 0;
+		executables = (
+			9BDB6911122B420800DB7AA7 /* VisualNotes */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9BDB6911122B420800DB7AA7 /* VisualNotes */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* VisualNotes */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* VisualNotes */,
+		);
+		breakpoints = (
+			9BE2B34612961AEE00827885 /* NotePadViewController.m:316 */,
+		);
+		codeSenseManager = 9BDB692B122B421100DB7AA7 /* Code sense */;
+		executables = (
+			9BDB6911122B420800DB7AA7 /* VisualNotes */,
+			9BF05E7C125433A000347A90 /* VisualNotes Lite */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					367,
+					20,
+					366,
+					366,
+					366,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1355,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					1331,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311827708;
+			PBXWorkspaceStateSaveDate = 311827708;
+		};
+		perUserProjectItems = {
+			9B13EAF8122B46C500129554 = 9B13EAF8122B46C500129554 /* XDModelBookmark */;
+			9B13EB0F122B471900129554 = 9B13EB0F122B471900129554 /* XDModelBookmark */;
+			9B237A9D12346EF300C36929 = 9B237A9D12346EF300C36929 /* PBXTextBookmark */;
+			9B59C83C122B5482007180EA = 9B59C83C122B5482007180EA /* PBXTextBookmark */;
+			9B59C856122B5645007180EA = 9B59C856122B5645007180EA /* PBXTextBookmark */;
+			9B7A0F3E12961D060075F9D0 /* PBXTextBookmark */ = 9B7A0F3E12961D060075F9D0 /* PBXTextBookmark */;
+			9B7A0F4812961D980075F9D0 /* PlistBookmark */ = 9B7A0F4812961D980075F9D0 /* PlistBookmark */;
+			9B7A0F4912961D980075F9D0 /* PBXTextBookmark */ = 9B7A0F4912961D980075F9D0 /* PBXTextBookmark */;
+			9B7A0F4A12961D980075F9D0 /* PBXTextBookmark */ = 9B7A0F4A12961D980075F9D0 /* PBXTextBookmark */;
+			9B7A0F4B12961DA60075F9D0 /* PBXTextBookmark */ = 9B7A0F4B12961DA60075F9D0 /* PBXTextBookmark */;
+			9B7A0F5012961DE10075F9D0 /* PBXTextBookmark */ = 9B7A0F5012961DE10075F9D0 /* PBXTextBookmark */;
+			9B7A0F5112961DE10075F9D0 /* PBXTextBookmark */ = 9B7A0F5112961DE10075F9D0 /* PBXTextBookmark */;
+			9B7A0F82129620730075F9D0 /* PBXTextBookmark */ = 9B7A0F82129620730075F9D0 /* PBXTextBookmark */;
+			9B7A0F83129620730075F9D0 /* PlistBookmark */ = 9B7A0F83129620730075F9D0 /* PlistBookmark */;
+			9B7A0F84129620730075F9D0 /* PlistBookmark */ = 9B7A0F84129620730075F9D0 /* PlistBookmark */;
+			9BCB96BA12456C8C00F401A5 = 9BCB96BA12456C8C00F401A5 /* PBXTextBookmark */;
+			9BCB96EB124572B100F401A5 = 9BCB96EB124572B100F401A5 /* PBXTextBookmark */;
+			9BCB96EC124572B100F401A5 = 9BCB96EC124572B100F401A5 /* PBXTextBookmark */;
+			9BCB97131245769300F401A5 = 9BCB97131245769300F401A5 /* PBXTextBookmark */;
+			9BE2B2F412960E0D00827885 = 9BE2B2F412960E0D00827885 /* PlistBookmark */;
+			9BE2B335129619DA00827885 = 9BE2B335129619DA00827885 /* PBXTextBookmark */;
+			9BE2B34212961ACD00827885 = 9BE2B34212961ACD00827885 /* PBXTextBookmark */;
+			9BE2B34312961ACD00827885 = 9BE2B34312961ACD00827885 /* PBXTextBookmark */;
+			9BE2B34A12961AF100827885 = 9BE2B34A12961AF100827885 /* PBXTextBookmark */;
+			9BE2B35212961CAA00827885 = 9BE2B35212961CAA00827885 /* PBXTextBookmark */;
+			9BE2B36312961CE100827885 = 9BE2B36312961CE100827885 /* PBXTextBookmark */;
+			9BF05E8F1254380B00347A90 = 9BF05E8F1254380B00347A90 /* PBXBookmark */;
+			9BF05EC3125439F900347A90 = 9BF05EC3125439F900347A90 /* PBXBookmark */;
+			9BF05F091254416600347A90 = 9BF05F091254416600347A90 /* PBXTextBookmark */;
+			9BF05F0A1254416600347A90 = 9BF05F0A1254416600347A90 /* PBXTextBookmark */;
+			9BF05F0C1254416600347A90 = 9BF05F0C1254416600347A90 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9BDB692A122B421100DB7AA7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 70}, {1905, 1108}}";
+		};
+	};
+	9B0D24611246BAF5003BAA48 /* VisualNotes Lite */ = {
+		activeExec = 0;
+		executables = (
+			9BF05E7C125433A000347A90 /* VisualNotes Lite */,
+		);
+	};
+	9B13EAF8122B46C500129554 /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = 9B781B7E122B460200B98125 /* VisualNotes.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
+	};
+	9B13EB0F122B471900129554 /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = 9B781B7D122B460200B98125 /* VisualNotes 2.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
+	};
+	9B237A8F12346E2300C36929 /* CustomUIScrollView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 730}}";
+			sepNavSelRange = "{222, 0}";
+			sepNavVisRange = "{0, 417}";
+		};
+	};
+	9B237A9012346E2300C36929 /* CustomUIScrollView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 1118}}";
+			sepNavSelRange = "{896, 0}";
+			sepNavVisRange = "{561, 1301}";
+		};
+	};
+	9B237A9D12346EF300C36929 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B9E49941167E7D700D5292E /* NoteCellView.h */;
+		name = "NoteCellView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+	9B4463691144C07400513DFA /* NotePadViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 736}}";
+			sepNavSelRange = "{751, 20}";
+			sepNavVisRange = "{0, 1402}";
+			sepNavWindowFrame = "{{15, 68}, {1905, 1110}}";
+		};
+	};
+	9B44636A1144C07400513DFA /* NotePadViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1859, 7891}}";
+			sepNavSelRange = "{12846, 0}";
+			sepNavVisRange = "{12266, 748}";
+			sepNavWindowFrame = "{{15, 68}, {1905, 1110}}";
+		};
+	};
+	9B59C83C122B5482007180EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BDB68C0122B3E4A00DB7AA7 /* LocationManager.h */;
+		name = "LocationManager.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	9B59C856122B5645007180EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B5AA237114C1D1D00FE4B2E /* UIImage+Utils.h */;
+		name = "UIImage+Utils.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 0;
+	};
+	9B5AA237114C1D1D00FE4B2E /* UIImage+Utils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 673}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 353}";
+		};
+	};
+	9B781B7D122B460200B98125 /* VisualNotes 2.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 1;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						192.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {1040, 220}}",
+							"{{1045, 0}, {547, 220}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {1592, 220}}",
+							"{{0, 225}, {1592, 493}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {342, 220}}",
+							"{{347, 0}, {691, 220}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						428.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{-440, -32}, {1577, 478}}";
+			};
+		};
+	};
+	9B781B7E122B460200B98125 /* VisualNotes.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 1;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						189.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {1040, 220}}",
+							"{{1045, 0}, {547, 220}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {1592, 220}}",
+							"{{0, 225}, {1592, 493}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {339, 218}}",
+							"{{344, 0}, {694, 218}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						431.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{-440, -32}, {1577, 478}}";
+			};
+		};
+	};
+	9B7A0F3E12961D060075F9D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B44636A1144C07400513DFA /* NotePadViewController.m */;
+		name = "NotePadViewController.m: 316";
+		rLen = 20;
+		rLoc = 12958;
+		rType = 0;
+		vrLen = 2697;
+		vrLoc = 5289;
+	};
+	9B7A0F4812961D980075F9D0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/rich/Documents/Visual Notes/VisualNotes/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	9B7A0F4912961D980075F9D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B44636A1144C07400513DFA /* NotePadViewController.m */;
+		rLen = 0;
+		rLoc = 315;
+		rType = 1;
+	};
+	9B7A0F4A12961D980075F9D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B44636A1144C07400513DFA /* NotePadViewController.m */;
+		name = "NotePadViewController.m: 316";
+		rLen = 0;
+		rLoc = 12846;
+		rType = 0;
+		vrLen = 2332;
+		vrLoc = 11920;
+	};
+	9B7A0F4B12961DA60075F9D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B44636A1144C07400513DFA /* NotePadViewController.m */;
+		name = "NotePadViewController.m: 316";
+		rLen = 0;
+		rLoc = 12846;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 12266;
+	};
+	9B7A0F5012961DE10075F9D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B44636A1144C07400513DFA /* NotePadViewController.m */;
+		name = "NotePadViewController.m: 316";
+		rLen = 0;
+		rLoc = 12846;
+		rType = 0;
+		vrLen = 2335;
+		vrLoc = 11920;
+	};
+	9B7A0F5112961DE10075F9D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BE298D71132026B007723BB /* NoteListViewController.m */;
+		name = "NoteListViewController.m: 168";
+		rLen = 0;
+		rLoc = 6893;
+		rType = 0;
+		vrLen = 2615;
+		vrLoc = 2311;
+	};
+	9B7A0F82129620730075F9D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BE298D71132026B007723BB /* NoteListViewController.m */;
+		name = "NoteListViewController.m: 168";
+		rLen = 0;
+		rLoc = 6893;
+		rType = 0;
+		vrLen = 2495;
+		vrLoc = 9795;
+	};
+	9B7A0F83129620730075F9D0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/rich/Documents/Visual Notes/VisualNotes/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	9B7A0F84129620730075F9D0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/rich/Documents/Visual Notes/VisualNotes/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	9B9E49941167E7D700D5292E /* NoteCellView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 735}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 642}";
+		};
+	};
+	9BCB96BA12456C8C00F401A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B237A9012346E2300C36929 /* CustomUIScrollView.m */;
+		name = "CustomUIScrollView.m: 47";
+		rLen = 0;
+		rLoc = 896;
+		rType = 0;
+		vrLen = 1301;
+		vrLoc = 561;
+	};
+	9BCB96EB124572B100F401A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B237A8F12346E2300C36929 /* CustomUIScrollView.h */;
+		name = "CustomUIScrollView.h: 12";
+		rLen = 0;
+		rLoc = 222;
+		rType = 0;
+		vrLen = 417;
+		vrLoc = 0;
+	};
+	9BCB96EC124572B100F401A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BE298D61132026B007723BB /* NoteListViewController.h */;
+		name = "NoteListViewController.h: 11";
+		rLen = 21;
+		rLoc = 217;
+		rType = 0;
+		vrLen = 722;
+		vrLoc = 0;
+	};
+	9BCB97131245769300F401A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BF7076A11A39A44002A6325 /* NoteLocationViewController.m */;
+		name = "NoteLocationViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1759;
+		vrLoc = 0;
+	};
+	9BDB68C0122B3E4A00DB7AA7 /* LocationManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 679}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 511}";
+		};
+	};
+	9BDB68C2122B3E4A00DB7AA7 /* LogManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 743}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 902}";
+		};
+	};
+	9BDB68C3122B3E4A00DB7AA7 /* LogManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 1014}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1140}";
+		};
+	};
+	9BDB6911122B420800DB7AA7 /* VisualNotes */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = VisualNotes;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	9BDB692A122B421100DB7AA7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = VisualNotes;
+			};
+		};
+	};
+	9BDB692B122B421100DB7AA7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9BE298D61132026B007723BB /* NoteListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 730}}";
+			sepNavSelRange = "{217, 21}";
+			sepNavVisRange = "{0, 722}";
+		};
+	};
+	9BE298D71132026B007723BB /* NoteListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1811, 5486}}";
+			sepNavSelRange = "{6893, 0}";
+			sepNavVisRange = "{9795, 2495}";
+			sepNavWindowFrame = "{{15, 68}, {1905, 1110}}";
+		};
+	};
+	9BE298D81132026B007723BB /* VisualNotesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 736}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 974}";
+		};
+	};
+	9BE298D91132026B007723BB /* VisualNotesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1937, 2938}}";
+			sepNavSelRange = "{600, 0}";
+			sepNavVisRange = "{267, 2336}";
+		};
+	};
+	9BE2B2F412960E0D00827885 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleSignature,
+		);
+		name = "/Users/rich/Documents/Visual Notes/VisualNotes/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	9BE2B335129619DA00827885 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B4463691144C07400513DFA /* NotePadViewController.h */;
+		name = "NotePadViewController.h: 25";
+		rLen = 20;
+		rLoc = 751;
+		rType = 0;
+		vrLen = 1402;
+		vrLoc = 0;
+	};
+	9BE2B34212961ACD00827885 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BE298D71132026B007723BB /* NoteListViewController.m */;
+		name = "NoteListViewController.m: 110";
+		rLen = 0;
+		rLoc = 4239;
+		rType = 0;
+		vrLen = 2271;
+		vrLoc = 14157;
+	};
+	9BE2B34312961ACD00827885 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BE298D81132026B007723BB /* VisualNotesAppDelegate.h */;
+		name = "VisualNotesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 974;
+		vrLoc = 0;
+	};
+	9BE2B34612961AEE00827885 /* NotePadViewController.m:316 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B44636A1144C07400513DFA /* NotePadViewController.m */;
+		functionName = "-saveNoteAction:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 316;
+		location = VisualNotes;
+		modificationTime = 311827859.503;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	9BE2B34A12961AF100827885 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BE298D91132026B007723BB /* VisualNotesAppDelegate.m */;
+		name = "VisualNotesAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 600;
+		rType = 0;
+		vrLen = 2336;
+		vrLoc = 267;
+	};
+	9BE2B35212961CAA00827885 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B44636A1144C07400513DFA /* NotePadViewController.m */;
+		name = "NotePadViewController.m: 316";
+		rLen = 20;
+		rLoc = 12958;
+		rType = 0;
+		vrLen = 1374;
+		vrLoc = 5817;
+	};
+	9BE2B36312961CE100827885 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B44636A1144C07400513DFA /* NotePadViewController.m */;
+		name = "NotePadViewController.m: 316";
+		rLen = 20;
+		rLoc = 12958;
+		rType = 0;
+		vrLen = 2694;
+		vrLoc = 5290;
+	};
+	9BF05E7C125433A000347A90 /* VisualNotes Lite */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "VisualNotes Lite";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9BF05E8F1254380B00347A90 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9B45EA5E11DFBE1B00B70AF8 /* AppIcon@2x.png */;
+	};
+	9BF05EC3125439F900347A90 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9B45EA5D11DFBE1B00B70AF8 /* AppIcon.png */;
+	};
+	9BF05F091254416600347A90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BDB68C3122B3E4A00DB7AA7 /* LogManager.m */;
+		name = "LogManager.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1140;
+		vrLoc = 0;
+	};
+	9BF05F0A1254416600347A90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BDB68C2122B3E4A00DB7AA7 /* LogManager.h */;
+		name = "LogManager.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 902;
+		vrLoc = 0;
+	};
+	9BF05F0C1254416600347A90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BF7076911A39A44002A6325 /* NoteLocationViewController.h */;
+		name = "NoteLocationViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 0;
+	};
+	9BF7076911A39A44002A6325 /* NoteLocationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 743}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 796}";
+		};
+	};
+	9BF7076A11A39A44002A6325 /* NoteLocationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 1937}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1759}";
+		};
+	};
+}

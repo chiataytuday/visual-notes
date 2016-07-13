@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lucasweb_iphone-apps/!svn/ver/103/trunk/VisualNotes/Classes
+END
+NotePadViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lucasweb_iphone-apps/!svn/ver/100/trunk/VisualNotes/Classes/NotePadViewController.h
+END
+NoteLocationViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/lucasweb_iphone-apps/!svn/ver/49/trunk/VisualNotes/Classes/NoteLocationViewController.h
+END
+NotePadViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lucasweb_iphone-apps/!svn/ver/108/trunk/VisualNotes/Classes/NotePadViewController.m
+END
+NoteCellView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lucasweb_iphone-apps/!svn/ver/100/trunk/VisualNotes/Classes/NoteCellView.h
+END
+NoteListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lucasweb_iphone-apps/!svn/ver/100/trunk/VisualNotes/Classes/NoteListViewController.h
+END
+NoteLocationViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/lucasweb_iphone-apps/!svn/ver/71/trunk/VisualNotes/Classes/NoteLocationViewController.m
+END
+LocationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lucasweb_iphone-apps/!svn/ver/71/trunk/VisualNotes/Classes/LocationManager.h
+END
+NSString+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/lucasweb_iphone-apps/!svn/ver/47/trunk/VisualNotes/Classes/NSString+Utils.h
+END
+Note.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lucasweb_iphone-apps/!svn/ver/71/trunk/VisualNotes/Classes/Note.h
+END
+NoteCellView.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lucasweb_iphone-apps/!svn/ver/100/trunk/VisualNotes/Classes/NoteCellView.m
+END
+NoteListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lucasweb_iphone-apps/!svn/ver/107/trunk/VisualNotes/Classes/NoteListViewController.m
+END
+VisualNotesAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lucasweb_iphone-apps/!svn/ver/66/trunk/VisualNotes/Classes/VisualNotesAppDelegate.h
+END
+LocationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lucasweb_iphone-apps/!svn/ver/100/trunk/VisualNotes/Classes/LocationManager.m
+END
+NSString+Utils.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/lucasweb_iphone-apps/!svn/ver/62/trunk/VisualNotes/Classes/NSString+Utils.m
+END
+Note.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lucasweb_iphone-apps/!svn/ver/100/trunk/VisualNotes/Classes/Note.m
+END
+LogManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lucasweb_iphone-apps/!svn/ver/87/trunk/VisualNotes/Classes/LogManager.h
+END
+UIImage+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lucasweb_iphone-apps/!svn/ver/23/trunk/VisualNotes/Classes/UIImage+Utils.h
+END
+VisualNotesAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lucasweb_iphone-apps/!svn/ver/103/trunk/VisualNotes/Classes/VisualNotesAppDelegate.m
+END
+LogManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lucasweb_iphone-apps/!svn/ver/71/trunk/VisualNotes/Classes/LogManager.m
+END
+UIImage+Utils.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lucasweb_iphone-apps/!svn/ver/59/trunk/VisualNotes/Classes/UIImage+Utils.m
+END
+CustomUIScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lucasweb_iphone-apps/!svn/ver/81/trunk/VisualNotes/Classes/CustomUIScrollView.h
+END
+CustomUIScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lucasweb_iphone-apps/!svn/ver/100/trunk/VisualNotes/Classes/CustomUIScrollView.m
+END
